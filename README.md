@@ -2,7 +2,7 @@
 
 A read-only [Model Context Protocol](https://modelcontextprotocol.io) server for [Treasure Hunter](https://www.treasurehunter.show) — a directory of card shows, TCG conventions, comic conventions, and estate sales across the US.
 
-This is a **manifest-only** repository. It contains no application source code — Treasure Hunter's main codebase is private. This repo exists so directories and marketplaces that discover MCP servers by scanning a public GitHub repository (README, license, manifest files) have somewhere to point. The MCP server itself runs at the URL below; nothing in this repo is executed or deployed from here.
+This is a **manifest-only** repository. This repo exists so directories and marketplaces that discover MCP servers by scanning a public GitHub repository (README, license, manifest files) have somewhere to point. The MCP server itself runs at the URL below; nothing in this repo is executed or deployed from here.
 
 ## Server
 

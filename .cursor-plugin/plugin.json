@@ -1,0 +1,12 @@
+{
+  "name": "treasure-hunter",
+  "displayName": "Treasure Hunter",
+  "version": "1.0.0",
+  "description": "Read-only MCP server for Treasure Hunter (treasurehunter.show): search card shows, TCG and comic conventions, and estate sales across the US.",
+  "author": {
+    "name": "Joe Garvey",
+    "url": "https://www.treasurehunter.show"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "card-shows", "collectibles", "events", "estate-sales"]
+}

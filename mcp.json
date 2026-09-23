@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "treasure-hunter": {
+      "type": "streamable-http",
+      "url": "https://www.treasurehunter.show/api/mcp"
+    }
+  }
+}
